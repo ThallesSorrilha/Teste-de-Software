@@ -1,0 +1,22 @@
+{
+  "name": "teste-de-software",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThallesSorrilha/Teste-de-Software.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThallesSorrilha/Teste-de-Software/issues"
+  },
+  "homepage": "https://github.com/ThallesSorrilha/Teste-de-Software#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
